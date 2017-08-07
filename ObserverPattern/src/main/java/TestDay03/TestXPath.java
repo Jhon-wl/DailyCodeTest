@@ -8,6 +8,7 @@ import org.dom4j.io.SAXReader;
 import org.junit.Test;
 
 import java.io.File;
+import java.net.MalformedURLException;
 
 /**
  * Created by Mr.w on 2017/7/28.
@@ -15,7 +16,7 @@ import java.io.File;
  */
 public class TestXPath {
     @Test
-    public void test1() throws DocumentException {
+    public void test1() throws DocumentException, MalformedURLException {
         SAXReader reader = new SAXReader();
         Document document = reader.read(new File("src/main/java/TestDay03/testxml.xml"));
 
@@ -23,7 +24,7 @@ public class TestXPath {
         System.out.println(e.getText());
     }
     @Test
-    public void test2() throws DocumentException {
+    public void test2() throws DocumentException, MalformedURLException {
         String name = "ddd";
         String password = "123";
         SAXReader reader = new SAXReader();

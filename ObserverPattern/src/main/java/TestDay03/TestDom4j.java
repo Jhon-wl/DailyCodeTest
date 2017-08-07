@@ -14,6 +14,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.net.MalformedURLException;
 import java.util.List;
 
 /**
@@ -22,7 +23,7 @@ import java.util.List;
 public class TestDom4j {
     @Test
     //获取xml文件的全部标签
-    public void test() throws DocumentException {
+    public void test() throws DocumentException, MalformedURLException {
         SAXReader reader = new SAXReader();
         Document document = reader.read(new File("src/main/java/TestDay03/testxml.xml"));
         Element root = document.getRootElement();
@@ -39,7 +40,7 @@ public class TestDom4j {
     }
     @Test
     //获取指定标签的内容
-    public void test1() throws DocumentException {
+    public void test1() throws DocumentException, MalformedURLException {
         SAXReader reader = new SAXReader();
         Document document = reader.read(new File("src/main/java/TestDay03/testxml.xml"));
         String str = document.getRootElement().element("书").element("书名").getText();

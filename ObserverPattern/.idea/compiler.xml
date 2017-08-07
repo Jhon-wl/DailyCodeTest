@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="observerpattern" />
+        <module name="StudyTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="observerpattern" target="1.5" />
+      <module name="StudyTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

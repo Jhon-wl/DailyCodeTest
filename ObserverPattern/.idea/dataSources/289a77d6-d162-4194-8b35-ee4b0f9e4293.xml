@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="testsql@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.3">
+    <root id="1"/>
+    <schema id="2" parent="1" name="testsql">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="information_schema"/>
+    <schema id="4" parent="1" name="mysql"/>
+    <schema id="5" parent="1" name="performance_schema"/>
+    <schema id="6" parent="1" name="test"/>
+    <schema id="7" parent="1" name="weddingdressshop"/>
+    <table id="8" parent="2" name="ai"/>
+    <table id="9" parent="2" name="class"/>
+    <table id="10" parent="2" name="id"/>
+    <table id="11" parent="2" name="stu"/>
+    <table id="12" parent="2" name="t1"/>
+    <table id="13" parent="2" name="t2"/>
+    <column id="14" parent="8" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <key id="15" parent="8" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="16" parent="9" name="cno">
+      <Position>1</Position>
+      <DataType>int(4)|0</DataType>
+    </column>
+    <column id="17" parent="9" name="cname">
+      <Position>2</Position>
+      <DataType>varchar(5)|0</DataType>
+    </column>
+    <column id="18" parent="9" name="cinfo">
+      <Position>3</Position>
+      <DataType>varchar(10)|0</DataType>
+    </column>
+    <column id="19" parent="9" name="ctype">
+      <Position>4</Position>
+      <DataType>varchar(8)|0</DataType>
+    </column>
+    <column id="20" parent="10" name="id1">
+      <Position>1</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="21" parent="10" name="id2">
+      <Position>2</Position>
+      <DataType>double|0</DataType>
+    </column>
+    <column id="22" parent="10" name="id3">
+      <Position>3</Position>
+      <DataType>decimal(10)|0</DataType>
+    </column>
+    <column id="23" parent="11" name="sname">
+      <Position>1</Position>
+      <DataType>varchar(10)|0</DataType>
+    </column>
+    <column id="24" parent="11" name="sno">
+      <Position>2</Position>
+      <DataType>int(5)|0</DataType>
+    </column>
+    <column id="25" parent="11" name="age">
+      <Position>3</Position>
+      <DataType>int(3)|0</DataType>
+    </column>
+    <column id="26" parent="12" name="id1">
+      <Position>1</Position>
+      <DataType>int(10) unsigned zerofill|0</DataType>
+    </column>
+    <column id="27" parent="12" name="id2">
+      <Position>2</Position>
+      <DataType>int(5) unsigned zerofill|0</DataType>
+    </column>
+    <column id="28" parent="13" name="id">
+      <Position>1</Position>
+      <DataType>bit(2)|0</DataType>
+    </column>
+  </database-model>
+</dataSource>
