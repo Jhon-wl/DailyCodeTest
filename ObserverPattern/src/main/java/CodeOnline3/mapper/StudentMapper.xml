@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="CodeOnline3.mapper.StudentMapper">
+    <resultMap id="StudentMapper" type="CodeOnline3.entity.Student">
+        <id column="id" property="id"/>
+        <result property="name" column="sname"/>
+        <result property="sex" column="sex"/>
+        <result property="age" column="age"/>
+        <result property="teacherId" column="tid"/>
+    </resultMap>
+    <insert id="insertStudent" parameterType="CodeOnline3.entity.Student">
+        insert into stu  (id,sex,sname,tid,age)VALUES
+                (#{id},#{sex},#{name},#{teacherId},#{age})
+    </insert>
+</mapper>

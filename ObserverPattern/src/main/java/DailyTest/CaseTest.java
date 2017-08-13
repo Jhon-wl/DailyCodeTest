@@ -25,6 +25,6 @@ public class CaseTest {
                 System.out.println("def:"+num);
         }
         System.out.println(num);
-        ArrayList list = new ArrayList(-1);
+
     }
 }

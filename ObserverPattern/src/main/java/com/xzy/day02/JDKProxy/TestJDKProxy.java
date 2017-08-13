@@ -14,7 +14,7 @@ public class TestJDKProxy {
         UserService userServiceProxy = (UserService) Proxy.newProxyInstance(
                 service.getClass().getClassLoader(),
                 service.getClass().getInterfaces(),handler);
-        
+
         userServiceProxy.calName("laozhang");
     }
 }
