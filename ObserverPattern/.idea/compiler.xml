@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="observerpattern" target="1.5" />
-      <module name="StudyTest" target="1.5" />
+      <module name="StudyTest" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

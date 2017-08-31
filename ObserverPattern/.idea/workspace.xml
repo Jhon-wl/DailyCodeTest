@@ -2,8 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d0a8f65-c20f-4136-855a-8dd81e777351" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CodeOnline6/TestJDBC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DailyTest/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/testJstack/deadlock/DeadLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/testJstack/deadlock/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/testJstack/testWhile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/testJstack/wait/TestTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/testJstack/wait/testWait.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/Test.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/TestDI.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/TestDI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/User.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/UserFather.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/UserFather.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/aop/Logger.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/aop/Logger.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/aop/UserAspect.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/aop/UserAspect.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/person.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/reflect.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/reflect.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/service/UserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/service/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/service/UserServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CodeOnline1/testSettings.class" afterPath="$PROJECT_DIR$/target/classes/CodeOnline1/testSettings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DailyTest/CaseTest.class" afterPath="$PROJECT_DIR$/target/classes/DailyTest/CaseTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DailyTest/lispTest.class" afterPath="$PROJECT_DIR$/target/classes/DailyTest/lispTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Extends/abstractTest.class" afterPath="$PROJECT_DIR$/target/classes/Extends/abstractTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Extends/child.class" afterPath="$PROJECT_DIR$/target/classes/Extends/child.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Extends/extendsTest.class" afterPath="$PROJECT_DIR$/target/classes/Extends/extendsTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Extends/impTest.class" afterPath="$PROJECT_DIR$/target/classes/Extends/impTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Extends/interfaceTest.class" afterPath="$PROJECT_DIR$/target/classes/Extends/interfaceTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Extends/parents.class" afterPath="$PROJECT_DIR$/target/classes/Extends/parents.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/IOTest/Encode.class" afterPath="$PROJECT_DIR$/target/classes/IOTest/Encode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/IOTest/FileDemo.class" afterPath="$PROJECT_DIR$/target/classes/IOTest/FileDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Product_Customer/Consumer.class" afterPath="$PROJECT_DIR$/target/classes/Product_Customer/Consumer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Product_Customer/Consumer1.class" afterPath="$PROJECT_DIR$/target/classes/Product_Customer/Consumer1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Product_Customer/Productor.class" afterPath="$PROJECT_DIR$/target/classes/Product_Customer/Productor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Product_Customer/Productor1.class" afterPath="$PROJECT_DIR$/target/classes/Product_Customer/Productor1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Product_Customer/Storage.class" afterPath="$PROJECT_DIR$/target/classes/Product_Customer/Storage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Product_Customer/Storage1.class" afterPath="$PROJECT_DIR$/target/classes/Product_Customer/Storage1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Product_Customer/Test.class" afterPath="$PROJECT_DIR$/target/classes/Product_Customer/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Product_Customer/Test1.class" afterPath="$PROJECT_DIR$/target/classes/Product_Customer/Test1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/BeanUtilsPerson.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/BeanUtilsPerson.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/Grade.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/Grade.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$1.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$2.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$3.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$4.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$5.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/Grade2$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/Grade2.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/Grade2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/IntrospectorPerson.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/IntrospectorPerson.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/ReflectPerson.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/ReflectPerson.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestBeanUtils$1.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestBeanUtils$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestBeanUtils.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestBeanUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestEnum.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestEnum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestEnum2.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestEnum2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestFor.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestFor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestGeneric.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestGeneric.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestGenericMethod.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestGenericMethod.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestIntrospector.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestIntrospector.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestReflect.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestReflect.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestReflect2.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestReflect2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestReflect3.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestReflect3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay01/TestReflect4.class" afterPath="$PROJECT_DIR$/target/classes/TestDay01/TestReflect4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay02/TestDomCURD.class" afterPath="$PROJECT_DIR$/target/classes/TestDay02/TestDomCURD.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay02/TestDom_Sax.class" afterPath="$PROJECT_DIR$/target/classes/TestDay02/TestDom_Sax.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay03/BookHandler.class" afterPath="$PROJECT_DIR$/target/classes/TestDay03/BookHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay03/ListHandler.class" afterPath="$PROJECT_DIR$/target/classes/TestDay03/ListHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay03/TestDom4j.class" afterPath="$PROJECT_DIR$/target/classes/TestDay03/TestDom4j.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay03/TestSAX.class" afterPath="$PROJECT_DIR$/target/classes/TestDay03/TestSAX.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestDay03/TestXPath.class" afterPath="$PROJECT_DIR$/target/classes/TestDay03/TestXPath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/observerpattern/ConcreteObserver.class" afterPath="$PROJECT_DIR$/target/classes/observerpattern/ConcreteObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/observerpattern/ConcreteSubject.class" afterPath="$PROJECT_DIR$/target/classes/observerpattern/ConcreteSubject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/observerpattern/Observer.class" afterPath="$PROJECT_DIR$/target/classes/observerpattern/Observer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/observerpattern/Sort.class" afterPath="$PROJECT_DIR$/target/classes/observerpattern/Sort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/observerpattern/WeatherSubject.class" afterPath="$PROJECT_DIR$/target/classes/observerpattern/WeatherSubject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/observerpattern/charReverse.class" afterPath="$PROJECT_DIR$/target/classes/observerpattern/charReverse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/threadTest/MyThread.class" afterPath="$PROJECT_DIR$/target/classes/threadTest/MyThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/threadTest/MyThread1.class" afterPath="$PROJECT_DIR$/target/classes/threadTest/MyThread1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/threadTest/Test.class" afterPath="$PROJECT_DIR$/target/classes/threadTest/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/threadTest/TestMyThread.class" afterPath="$PROJECT_DIR$/target/classes/threadTest/TestMyThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/threadTest/TestMyThread1.class" afterPath="$PROJECT_DIR$/target/classes/threadTest/TestMyThread1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudyTest.iml" afterPath="$PROJECT_DIR$/StudyTest.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WebProjectTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../WebProjectTest/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,15 +127,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestJDBC.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestJDBC.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CodeOnline6/TestJDBC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="828">
               <caret line="40" column="43" lean-forward="false" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1502950613653" expanded="true" signature="732:749" ph="select * fro... stu" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DailyTest/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testWhile.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/testWhile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testWait.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/wait/testWait.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeadLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/deadlock/DeadLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/deadlock/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/wait/TestTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scanner.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_67/src.zip!/java/util/Scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34891">
+              <caret line="1577" column="18" lean-forward="false" selection-start-line="1577" selection-start-column="18" selection-end-line="1577" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,16 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/CodeOnline1/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CodeOnline1/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CodeOnline1/aop/Logger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CodeOnline1/aop/UserAspect.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application-context.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/CodeOnline1/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xzy/day02/JDKProxy/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xzy/day02/JDKProxy/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xzy/day02/JDKProxy/UserInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CodeOnline2/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/CodeOnline2/TestJDKProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/CodeOnline2/TestCGlibProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/CodeOnline2/CGLibProxy.java" />
@@ -137,6 +289,16 @@
         <option value="$PROJECT_DIR$/src/main/java/CodeOnline5/ENUM/testEnum.java" />
         <option value="E:/JAVA/maven/apache-maven-3.5.0/repo/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
         <option value="$PROJECT_DIR$/src/main/java/CodeOnline6/TestJDBC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/testWait.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/TestTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/wait/TestTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DailyTest/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/wait/testWait.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/SiSuo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/SiSuo/SiSuo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/SiSuo/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/deadlock/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testJstack/testWhile.java" />
       </list>
     </option>
   </component>
@@ -171,8 +333,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="30" />
+    <option name="x" value="-11" />
+    <option name="y" value="47" />
     <option name="width" value="1370" />
     <option name="height" value="754" />
   </component>
@@ -196,7 +358,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -234,13 +396,21 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="observerpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ObserverPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testJstack" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +449,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestJDBC.test">
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DailyTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DailyTest.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StudyTest" />
+      <envs />
+    </configuration>
     <configuration name="TestJDBC.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -305,6 +494,25 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="TestTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="testJstack.wait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="testJstack.wait.TestTask" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StudyTest" />
+      <envs />
+    </configuration>
     <configuration name="ThreadMain.Test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -318,81 +526,6 @@
       <option name="PACKAGE_NAME" value="CodeOnline5.TestThread" />
       <option name="MAIN_CLASS_NAME" value="CodeOnline5.TestThread.ThreadMain" />
       <option name="METHOD_NAME" value="Test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ThreadMain.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="CodeOnline5.TestThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="StudyTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="CodeOnline5.TestThread" />
-      <option name="MAIN_CLASS_NAME" value="CodeOnline5.TestThread.ThreadMain" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ThreadMain.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="CodeOnline5.TestThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="StudyTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="CodeOnline5.TestThread" />
-      <option name="MAIN_CLASS_NAME" value="CodeOnline5.TestThread.ThreadMain" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ThreadMain.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="CodeOnline5.TestThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="StudyTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="CodeOnline5.TestThread" />
-      <option name="MAIN_CLASS_NAME" value="CodeOnline5.TestThread.ThreadMain" />
-      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -602,20 +735,39 @@
       <envs />
       <method />
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="testJstack.deadlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="testJstack.deadlock.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StudyTest" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ThreadMain.test2" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ThreadMain.test3" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ThreadMain.test4" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ThreadMain.Test5" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestJDBC.test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ThreadMain.Test5" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestJDBC.test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestTask" />
+      <item index="4" class="java.lang.String" itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestJDBC.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ThreadMain.Test5" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ThreadMain.test4" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ThreadMain.test3" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ThreadMain.test2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestTask" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestJDBC.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ThreadMain.Test5" />
       </list>
     </recent_temporary>
   </component>
@@ -652,6 +804,12 @@
       <workItem from="1502844969241" duration="7810000" />
       <workItem from="1502886517648" duration="3343000" />
       <workItem from="1502937590896" duration="4670000" />
+      <workItem from="1503141948343" duration="4018000" />
+      <workItem from="1503399611640" duration="1953000" />
+      <workItem from="1503560393816" duration="118000" />
+      <workItem from="1503560827280" duration="44000" />
+      <workItem from="1504080368127" duration="78000" />
+      <workItem from="1504147466272" duration="2927000" />
     </task>
     <servers />
   </component>
@@ -688,7 +846,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104015000" />
+    <option name="totallyTimeSpent" value="113153000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -701,45 +859,70 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4943274" sideWeight="0.51221377" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34795764" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18381241" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.267423" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.541329" sideWeight="0.49389312" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.540625" sideWeight="0.49389312" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="92" y="122" width="1182" height="554" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6693679" sideWeight="0.48778626" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4943274" sideWeight="0.51221377" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34795764" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25625" sideWeight="0.48778626" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.49694657" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3267776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18381241" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.267423" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="92" y="122" width="1182" height="554" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -766,7 +949,7 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="35" />
+      <option name="time" value="36" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -775,62 +958,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sources/b.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CodeOnline4/TestTCP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CodeOnline4/TestTcpClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="18" column="65" lean-forward="false" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DailyTest/lispTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_67/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="655" column="16" lean-forward="false" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_67/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-918">
-          <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_67/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="297" column="15" lean-forward="false" selection-start-line="297" selection-start-column="15" selection-end-line="297" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CodeOnline3/mapper/StudentMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -982,7 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,7 +1186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,7 +1193,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1076,7 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,7 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1656">
           <caret line="72" column="40" lean-forward="false" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1092,9 +1214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1102,7 +1221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1110,7 +1228,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1118,7 +1235,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1126,7 +1242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1134,18 +1249,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-148">
           <caret line="2516" column="7" lean-forward="false" selection-start-line="2516" selection-start-column="7" selection-end-line="2516" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CodeOnline6/TestJDBC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="828">
           <caret line="40" column="43" lean-forward="false" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1502950613653" expanded="true" signature="732:749" ph="select * fro... stu" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_67/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34891">
+          <caret line="1577" column="18" lean-forward="false" selection-start-line="1577" selection-start-column="18" selection-end-line="1577" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DailyTest/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/wait/TestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/deadlock/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/wait/testWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/deadlock/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testJstack/testWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
